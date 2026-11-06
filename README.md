@@ -43,22 +43,6 @@ I'm a DevOps Engineer passionate about building scalable cloud infrastructure, a
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiragatcalfus&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragatcalfus&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
-### 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/chiragatcalfus" alt="Chirag's GitHub Contribution Graph" width="100%"/>
-</p>
-
----
 
 ### 🤝 Let's Connect
 
